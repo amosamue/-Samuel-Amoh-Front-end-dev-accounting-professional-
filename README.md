@@ -28,21 +28,16 @@ Currently growing through the **ALX Software Engineering Program**
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
 ### [Airbnb Clone Project](https://github.com/amosamue/airbnb-clone-project)  
 A replication of Airbnb’s UI with **responsive layouts** and **reusable React components**.  
 
-💡 *More projects in progress — building & refining daily!*
-
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amosamue&repo=airbnb-clone-project&theme=tokyonight)](https://github.com/amosamue/airbnb-clone-project)
-
-<!-- Add more repos here when ready -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amosamue&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/amosamue/YOUR_REPO_NAME)
 
 ---
 
