@@ -1,12 +1,3 @@
-# 1. create repo on GitHub first (via web) OR if you have GitHub CLI (gh):
-gh repo create amosamue --public --description "Samuel Amoh — Frontend dev & accounting professional" --confirm
-
-# 2. clone repo
-git clone https://github.com/amosamue/amosamue.git
-cd amosamue
-
-# 3. create README.md (paste content into README.md)
-cat > README.md <<'README'
 # 👋 Hi, I'm Samuel Amoh
 
 **Accounting Professional Turned Front-End Developer**  
